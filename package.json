@@ -2,10 +2,12 @@
   "name": "mvm-memo",
   "version": "1.0.0",
   "description": "MVM memo encoder and decoder.",
-  "main": "index.js",
+  "main": "index.mjs",
+  "test": "test.mjs",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node --inspect --trace-warnings test.mjs"
   },
-  "author": "Leask",
+  "author": "Leask Wong <i@leaskh.com>",
   "license": "MIT"
 }
