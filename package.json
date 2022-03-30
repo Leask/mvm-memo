@@ -1,0 +1,11 @@
+{
+  "name": "mvm-memo",
+  "version": "1.0.0",
+  "description": "MVM memo encoder and decoder.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leask",
+  "license": "MIT"
+}
