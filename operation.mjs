@@ -10,8 +10,8 @@ const OPERATION_PURPOSES = {
 const RULES = [
     { type: 'INT', name: 'purpose' },
     { type: 'UUID', name: 'process' },
-    { type: 'BYTES', name: 'platform' },
-    { type: 'BYTES', name: 'address' },
+    { type: 'STRING', name: 'platform' },
+    { type: 'STRING', name: 'address' },
     { type: 'BYTES', name: 'extra' },
 ];
 
