@@ -26,5 +26,5 @@ const memo = operation.encode({
 
 ## TODO
 
-[ ] Adding decoder for operation-coder
-[ ] Support event-coder
+- [ ] Adding decoder for operation-coder
+- [ ] Support event-coder
