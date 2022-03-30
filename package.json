@@ -1,7 +1,7 @@
 {
   "name": "mvm-memo",
   "version": "1.0.0",
-  "description": "Use to `Encode` and `Decode` memos in mvm invoking.",
+  "description": "Use to `Encode` and `Decode` memoes in mvm invoking.",
   "main": "index.mjs",
   "test": "test.mjs",
   "type": "module",

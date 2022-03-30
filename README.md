@@ -1,6 +1,6 @@
 # MVM-MEMO
 
-Use to `Encode` and `Decode` memos in mvm invoking.
+Use to `Encode` and `Decode` memoes in mvm invoking.
 
 The goal is to be compatible with the [mvm go version](https://github.com/MixinNetwork/trusted-group/tree/master/mvm/encoding).
 
